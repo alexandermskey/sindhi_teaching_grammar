@@ -1,0 +1,2 @@
+Gemini 4 Argon High
+"build an app that is a concise teaching grammar of classical (1600s) and modern Sindhi so I can flick through the pages of explanation and then do interactive exercises to test my comprehension of each chapter at the end. Focus on vocabulary that is useful for reading Shah Abdul Latif and others in the Kalhora period and also vocabulary that is useful in Karachi today.  Before you start ask me any questions you need about how the teaching grammar app should funcution."
